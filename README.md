@@ -12,4 +12,5 @@ Similar to the reader program, fork(), exec(), and the fstream library are used.
 
 References:
 Some of the program was inspired by ideas and code found in the following websites:
-https://stackoverflow.com/questions/48190685/shared-memory-after-exec https://github.com/aitalshashank2/starve-free-reader-writers-problem
+https://stackoverflow.com/questions/48190685/shared-memory-after-exec
+https://github.com/aitalshashank2/starve-free-reader-writers-problem
